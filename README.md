@@ -1,6 +1,9 @@
+# Data Visulisation challenge
 
+MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH > Assignments > Module 2
 
-Data vis 
+Student:  Mireille Walton 
+Email: mmj649@gmail.com
 
 References
 
